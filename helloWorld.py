@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 # prints 'hello world'
 print('hello world')
 # var for name
